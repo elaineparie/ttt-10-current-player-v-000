@@ -6,5 +6,7 @@ def turn_count(board)
 turn_count.each do |turn|
   if board == "X"
   counter +=1
+else
+  nil
 end
 end
