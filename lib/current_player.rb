@@ -16,3 +16,4 @@ def current_player
   else
     puts "O"
 end
+end
